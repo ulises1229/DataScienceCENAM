@@ -29,6 +29,6 @@
 
 | Día        | Tema           | Contenido  |  Material   | Videos |
 | :-------------: |:-------------:|:-----| :-----:|:-----: |
-| Día 1       | Instalación de Prerrequisitos (Opcional) | <ul>Instalación de:<ul><li>Python</li><li>Jupyter</li><li>Librerías</li><ul></ul> | [Ver página](http://www.hpclab.unam.mx/course/python) | [Video Instalación](https://www.youtube.com/watch?v=1ETiwXo0lg4&feature=emb_title)|
+| Día 1       | Instalación de Prerrequisitos (Opcional) | <ul>Instalación de:<ul><li>Python</li><li>Jupyter</li><li>Librerías</li><ul></ul> | <ul><li>[Ver página](http://www.hpclab.unam.mx/course/python) <li>[Código Día 1](https://colab.research.google.com/drive/1uG12tFB6h7ff57_Clem0O09Q3cJck1jr?usp=sharing)</li></ul>|<li>[Video de instalación](https://www.youtube.com/watch?v=1ETiwXo0lg4&feature=emb_title)</li> |
 
 ##### Última modificación: 11 de diciembre de 2023
